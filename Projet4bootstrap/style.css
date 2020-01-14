@@ -1,0 +1,33 @@
+#nav {
+background-color:#003c5a;
+border:none;
+height:120px;
+}
+.a1:hover {
+   color:white;
+   background-color:none;
+}
+	.ul1 {
+list-style-type: none;
+padding-bottom:10px;
+overflow: hidden;
+height:40px;
+width:100%;
+padding-left:300px;
+margin-top:60px;
+
+font-size:18px;
+}
+.li1 {
+float: left;
+margin-top:-05px;
+}
+.li1 .a1 {
+display: block;
+text-align: center;
+padding-left: 60px;
+text-decoration: none;
+}
+.li1 .a1:hover {
+color:white;
+}
